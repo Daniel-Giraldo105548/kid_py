@@ -1,10 +1,8 @@
 from model import model
 
-class ListDEService:
-
+class ListSEService:
     def __init__(self):
-        self.__kids = model.ListDE()
-
+        self.__kids = model.ListSE()
 
     def get_kids(self):
         return self.__kids

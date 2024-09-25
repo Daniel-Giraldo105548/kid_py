@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390075fd-6e57-4141-8285-18357c786567" name="Changes" comment="Kid_py" />
+    <list default="true" id="390075fd-6e57-4141-8285-18357c786567" name="Changes" comment="Kid_py">
+      <change afterPath="$PROJECT_DIR$/contoller/list_de_controller_DE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/model_DE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contoller/list_de_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/contoller/list_de_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/list_de_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/list_de_service.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +28,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Daniel-Giraldo105548&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Daniel-Giraldo105548/Kid_py.git&quot;,
+    &quot;accountId&quot;: &quot;c319e6b6-e04d-4f7e-95f4-b3601018d049&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -31,22 +57,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "FastAPI.KId.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/giral/Downloads/kids_list_python-master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;FastAPI.KId.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/giral/Downloads/kids_list_python-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="KId" type="Python.FastAPI">
       <option name="file" value="$PROJECT_DIR$/main.py" />
@@ -91,7 +117,35 @@
       <workItem from="1727050255807" duration="17000" />
       <workItem from="1727050289344" duration="141000" />
       <workItem from="1727050457309" duration="39000" />
-      <workItem from="1727050522274" duration="780000" />
+      <workItem from="1727050522274" duration="6680000" />
+      <workItem from="1727145750268" duration="4656000" />
+      <workItem from="1727150896190" duration="7873000" />
+      <workItem from="1727217556507" duration="4442000" />
+      <workItem from="1727225954550" duration="2631000" />
+      <workItem from="1727231087287" duration="721000" />
+      <workItem from="1727282649271" duration="1193000" />
+      <workItem from="1727284066811" duration="36000" />
+      <workItem from="1727284124582" duration="81000" />
+      <workItem from="1727284226757" duration="28000" />
+      <workItem from="1727284275064" duration="23000" />
+      <workItem from="1727284656092" duration="38000" />
+      <workItem from="1727284732302" duration="3361000" />
+      <workItem from="1727293049086" duration="180000" />
+      <workItem from="1727308421320" duration="75000" />
+      <workItem from="1727388947838" duration="477000" />
+      <workItem from="1728195431710" duration="195000" />
+      <workItem from="1728196072628" duration="37000" />
+      <workItem from="1728248006822" duration="419000" />
+      <workItem from="1728358336116" duration="3454000" />
+      <workItem from="1728418218957" duration="3221000" />
+      <workItem from="1728491955792" duration="5589000" />
+      <workItem from="1728503266071" duration="685000" />
+      <workItem from="1728513668616" duration="8325000" />
+      <workItem from="1728529398647" duration="1260000" />
+      <workItem from="1728602240313" duration="7294000" />
+      <workItem from="1729050139038" duration="1456000" />
+      <workItem from="1729106841821" duration="32000" />
+      <workItem from="1729199533212" duration="4483000" />
     </task>
     <task id="LOCAL-00001" summary="Kid_py">
       <option name="closed" value="true" />
@@ -117,7 +171,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727050954811</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Kid_py">
+      <option name="closed" value="true" />
+      <created>1727051480964</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727051480964</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Kid_py">
+      <option name="closed" value="true" />
+      <created>1727051500530</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727051500530</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Kid_py">
+      <option name="closed" value="true" />
+      <created>1727228646006</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727228646006</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +206,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Kid_py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/KId$KId.coverage" NAME="KId Coverage Results" MODIFIED="1726795823487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/KId$KId.coverage" NAME="KId Coverage Results" MODIFIED="1729202606770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
